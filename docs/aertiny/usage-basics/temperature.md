@@ -12,6 +12,6 @@ sidebar_position: 1
 The current **Set Temperature** will be visible in the **Set Value** labeled section on the screen of the main UI page.
 
 
-:::warning[CUATION]
+:::warning[CAUTION]
 Setting the element to a temperature above its maximun tolerance rating may result in damage to the heating element or possibly risk of fire!
 :::

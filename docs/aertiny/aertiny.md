@@ -31,7 +31,7 @@ Get started by **Aquiring a Device**.
 Please make sure your heating element matches the pinout used on this device.
 :::
 
-:::warning[CUATION]
+:::warning[CAUTION]
 Improper pinouts and connections risk permenant damage to your device or heating element!
 :::
 
