@@ -15,3 +15,7 @@ The current **Set Temperature** will be visible in the **Set Value** labeled sec
 :::warning[CAUTION]
 Setting the element to a temperature above its maximun tolerance rating may result in damage to the heating element or possibly risk of fire!
 :::
+
+:::tip[HINT]
+When changed, the adjusted set temperature value will automatically be saved to storage after a couple seconds of inactivity.
+:::
