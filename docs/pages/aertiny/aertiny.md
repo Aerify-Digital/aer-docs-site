@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+title: Getting Started
+sidebar_position: 2
 ---
 
 # AerTiny v3

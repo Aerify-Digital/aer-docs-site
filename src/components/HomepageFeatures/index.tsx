@@ -10,11 +10,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Aerify Digital',
+    title: 'Aerify.Digital Info Site',
     img: require('@site/static/img/ad_logo-b2.png').default,
     description: (
       <>
-        Improbable Electronics
+        This documenation site application is a for Information and Resources of usage for supported devices and modules we have created here ad AerfiyDigital.
       </>
     ),
   }

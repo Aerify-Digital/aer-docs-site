@@ -1,0 +1,8 @@
+{
+  "label": "Documentation",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Software and Hardware Documentation for Devices and Modules by AerifyDigital"
+  }
+}

@@ -67,11 +67,11 @@ const config: Config = {
         src: 'img/ad_logo-b2.png'
       },
       items: [
+        { to: '/docs/', label: 'Introduction', position: 'left' },
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          to: '/docs/pages/aertiny',
           position: 'left',
-          label: 'AerTiny v3'
+          label: 'AerTiny Docs'
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
