@@ -89,7 +89,7 @@ const config: Config = {
           items: [
             {
               label: 'Aertiny v3',
-              to: '/docs/aertiny'
+              to: '/docs/pages/aertiny'
             }
           ]
         },
