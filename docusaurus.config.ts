@@ -67,7 +67,7 @@ const config: Config = {
         src: 'img/ad_logo-b2.png'
       },
       items: [
-        { to: '/docs/intro', label: 'Introduction', position: 'left' },
+        { to: '/docs/intro', label: 'Docs Intro', position: 'left' },
         /*{
           to: '/docs/pages/aertiny',
           position: 'left',
