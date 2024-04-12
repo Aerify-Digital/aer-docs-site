@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     img: require('@site/static/img/ad_logo-b2.png').default,
     description: (
       <>
-        This documenation site application is a for Information and Resources of usage for supported devices and modules we have created here ad AerfiyDigital.
+        This documenation site application is a for Information and Resources of usage for supported devices and modules we have created here at AerfiyDigital.
       </>
     ),
   }
