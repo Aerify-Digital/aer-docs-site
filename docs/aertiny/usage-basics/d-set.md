@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # Set Derivative (kD)
 
+In a PID (Proportional-Integral-Derivative) controller, the "D" stands for Derivative. 
+
 ## UI Setting
 
 - Navigate to the **PID** menu section from the Main Menu
@@ -12,7 +14,7 @@ sidebar_position: 6
 
 ## Usage Definition
 
-In a PID (Proportional-Integral-Derivative) controller, the "D" stands for Derivative. The Derivative component of the PID controller helps to anticipate future trends in the error signal by measuring its rate of change over time. The D value, also known as the derivative gain, determines the controller's response to rapid changes in the error signal.
+The Derivative component of the PID controller helps to anticipate future trends in the error signal by measuring its rate of change over time. The D value, also known as the derivative gain, determines the controller's response to rapid changes in the error signal.
 
 The D value allows the controller to dampen the response to sudden changes in the error, thus improving stability and reducing overshoot and oscillations. It essentially acts as a predictive element, helping to counteract the tendency of the system to overshoot or oscillate in response to sudden changes in the setpoint or disturbances.
 

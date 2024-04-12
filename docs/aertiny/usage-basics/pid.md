@@ -4,9 +4,9 @@ sidebar_position: 3
 
 # PID Details
 
-## Function Description
-
 A PID controller is a type of feedback control system widely used in engineering and industrial applications to regulate processes and systems. It stands for Proportional-Integral-Derivative, representing the three main components of the controller.
+
+## Function Description
 
 1. **Proportional (P)**: The proportional component generates an output signal that is proportional to the current error, which is the difference between the desired setpoint and the actual process variable. This component provides a quick initial response to changes in the error signal.
 
@@ -26,7 +26,6 @@ By combining these three components, a PID controller can provide precise and st
         *Effects of varying PID parameters (Kp,Ki,Kd) on the step response of a system*
     </div>
 </div>
-
 
 
 ## Component Value Effects 
