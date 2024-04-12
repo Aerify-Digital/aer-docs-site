@@ -15,8 +15,8 @@ Get started by **Aquiring a Device**.
 
 ### What you'll need
 
-- AerTiny version 4 or above:
-  - Purchase methods of an **AerTiny** may be found on our **[Shop](https://aerify.digital/product/aertiny-dual/)**.
+- AerTiny version 4 (hardware) or above:
+  - Purchase methods of an **AerTiny-HP** may be found on our **[Shop](https://aerify.digital/product/aertiny-dual/)**.
 - Heating Element with K-type Thermocouple.
   - Supported power up to 1000 watts.
 - AC Power Cable with C13 connector.
@@ -42,7 +42,7 @@ Improper pinouts and connections risk permanent damage to your device or heating
 2: AC POWER
 3: TC +
 4: TC –
-5: GROUND (NC)
+5: GROUND (Earth Ground)
 T: SHIELD (Earth Ground)
 ```
 

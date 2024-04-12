@@ -42,7 +42,7 @@ Improper pinouts and connections risk permanent damage to your device or heating
 2: AC POWER
 3: TC +
 4: TC –
-5: GROUND (NC)
+5: GROUND (Earth Ground)
 T: SHIELD (Earth Ground)
 ```
 
