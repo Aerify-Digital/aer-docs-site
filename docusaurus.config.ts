@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
@@ -26,7 +26,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en']
   },
 
   presets: [
@@ -34,49 +34,52 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: './sidebars.ts'
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           /*editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',*/
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: true
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           /*editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',*/
         },
         theme: {
-          customCss: './src/css/custom.css',
-        },
-      } satisfies Preset.Options,
-    ],
+          customCss: './src/css/custom.css'
+        }
+      } satisfies Preset.Options
+    ]
   ],
 
   themeConfig: {
-    // Replace with your project's social card
+    colorMode: {
+      defaultMode: 'dark',
+      respectPrefersColorScheme: true
+    },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'AerifyDigital',
       logo: {
         alt: 'AerifyDigital Logo',
-        src: 'img/ad_logo-b2.png',
+        src: 'img/ad_logo-b2.png'
       },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'AerTiny v3',
+          label: 'AerTiny v3'
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        { to: '/blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/Aerify-Digital/',
           label: 'GitHub',
-          position: 'right',
-        },
-      ],
+          position: 'right'
+        }
+      ]
     },
     footer: {
       style: 'dark',
@@ -86,9 +89,9 @@ const config: Config = {
           items: [
             {
               label: 'Aertiny v3',
-              to: '/docs/aertiny',
-            },
-          ],
+              to: '/docs/aertiny'
+            }
+          ]
         },
         {
           title: 'Community',
@@ -99,31 +102,31 @@ const config: Config = {
             },*/
             {
               label: 'Twitter',
-              href: 'https://twitter.com/AerifyDigital',
-            },
-          ],
+              href: 'https://twitter.com/AerifyDigital'
+            }
+          ]
         },
         {
           title: 'More',
           items: [
             {
               label: 'Main',
-              to: 'https://aerify.digital/',
+              to: 'https://aerify.digital/'
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/Aerify-Digital/',
-            },
-          ],
-        },
+              href: 'https://github.com/Aerify-Digital/'
+            }
+          ]
+        }
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Aerify.Digital LLC. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Aerify.Digital LLC. Built with Docusaurus.`
     },
     prism: {
       theme: prismThemes.github,
-      darkTheme: prismThemes.dracula,
-    },
-  } satisfies Preset.ThemeConfig,
+      darkTheme: prismThemes.dracula
+    }
+  } satisfies Preset.ThemeConfig
 };
 
 export default config;
