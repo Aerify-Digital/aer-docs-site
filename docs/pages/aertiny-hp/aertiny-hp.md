@@ -33,7 +33,7 @@ Please make sure your heating element matches the pinout used on this device.
 :::
 
 :::warning[CAUTION]
-Improper pinouts and connections risk permenant damage to your device or heating element!
+Improper pinouts and connections risk permanent damage to your device or heating element!
 :::
 
 ### XLR Pinout:

@@ -20,16 +20,16 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Device Documentation Site Intro
+            Device Docs Site Introduction
           </Link>
         </div>
-        <div className={styles.buttons} style={{marginTop: '1em'}}>
+        {/*<div className={styles.buttons} style={{marginTop: '1em'}}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/pages/aertiny">
             AerTiny PID Controller - Usage
           </Link>
-        </div>
+        </div>*/}
       </div>
     </header>
   );

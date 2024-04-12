@@ -68,11 +68,12 @@ const config: Config = {
       },
       items: [
         { to: '/docs/intro', label: 'Introduction', position: 'left' },
-        {
+        /*{
           to: '/docs/pages/aertiny',
           position: 'left',
           label: 'AerTiny Docs'
-        },
+        },*/
+        /*{ to: '/docs/category/documentation', label: 'Device Docs', position: 'left' },*/
         { to: '/blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/Aerify-Digital/',
