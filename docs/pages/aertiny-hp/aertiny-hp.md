@@ -52,7 +52,7 @@ Toggle the AC power switch on the back of your AerTiny to power up and boot the 
 
 ## Basic UI Controls
 
-The **AerTiny GUI** consists of a main screen with temperature display and statuses, and a seies of **Menus** which may be navigated using the controls on the front of the device.
+The **AerTiny GUI** consists of a main screen with temperature display and statuses, and a series of **Menus** which may be navigated using the controls on the front of the device.
 
 The **AerTiny** uses a **Rotary Knob** with **Button** on the left side, and two additional Buttons on the right for control and interaction with the device.
 
