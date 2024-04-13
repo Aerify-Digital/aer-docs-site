@@ -13,6 +13,11 @@ Let's discover how to use the **AerTiny** Temperature Controller.
 
 Get started by **Aquiring a Device**.
 
+<div>
+![](/img/aertiny_035asdfjk.jpg)
+<sup>Image: *Finalized AerTiny Device with case printed using Black ASA.*</sup>
+</div>
+
 ### What you'll need
 
 - [AerTiny](https://aerify.digital/product/aertiny3-2/) version 3 or above:

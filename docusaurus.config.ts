@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Aerify.Digital',
+  title: 'Aerify.Digital Documentation Site',
   tagline: 'Improbable Electronics',
   favicon: 'img/favicon.ico',
 
@@ -41,7 +41,7 @@ const config: Config = {
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',*/
         },
         blog: {
-          showReadingTime: true
+          showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           /*editUrl:

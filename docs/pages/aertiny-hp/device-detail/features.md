@@ -4,13 +4,13 @@ sidebar_position: 2
 
 # Device Features
 
-- Hardware design revision `3.2`, *based on designs created in 2015*
+- Hardware design revision `4.0`, *based on AerTiny v3 design*
 - Dedicated PID Controller allows stable temperature management of heating element
   - FreeRTOS based Architecture, Built with Arduino
   - Dual Core 240 MHz CPU with WiFi
-- K Type Thermocouple Supported
+- K Type Thermocouple Supported (x2)
   - 1,260°C max measure temperature
-- `5 Amp` Solid State Relay for load Element
+- `5 Amp` Solid State Relay for load Element (x2)
   - Supports up to a `5 Amp` (`120v`) load, when using a higher rated fuse
   - Fuse Protected (1.6 Amp) AC Plug on back of device with `C14` Connection to `C13` Power Cord
   - Support for up to `15 Amp` (`120v`) load available on High-Power edition
@@ -28,7 +28,7 @@ sidebar_position: 2
   - Status LED’s on front interface
 - Controllable ambient internal lighting effects
   - Onboard LED’s for ambient display in case
-- 5-Pin Female `XLR` Connection on Back of case
+- 5-Pin Female `XLR` (x2) Connection on front of case
 - Safety features and fail-safes
   - Heating Element and Thermocouple fault detection; Coil Protection Circuit
   - Configurable Auto-shut off and heating element dip detection
