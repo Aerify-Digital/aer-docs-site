@@ -7,11 +7,16 @@ sidebar_position: 2
 
 Let's discover how to use the **AerTiny-HP x2** Temperature Controller.
 
-> *Please Use Responsibly.*
+> _Please Use Responsibly._
 
 ## Getting Started
 
 Get started by **Aquiring a Device**.
+
+<div>
+![](aerpid2x_05.jpg)
+<sup>Image: *Finalized AerTiny-HP Device with case printed using Green ABS.*</sup>
+</div>
 
 ### What you'll need
 
@@ -37,6 +42,7 @@ Improper pinouts and connections risk permanent damage to your device or heating
 :::
 
 ### XLR Pinout:
+
 ```
 1: AC POWER +
 2: AC POWER
@@ -62,7 +68,6 @@ Turning of the rotary knob is used to navigate menus, change set values and when
 - Two presses of the rotary knob, when in the menus, will take you back 1 menu level.
 - Three presses of the rotary knob, when in the menus, will take you back to the main home screen.
 
-
 ### Toggle Element Power
 
 To **toggle** on/off the running of the PID function and power to the **heating element**;
@@ -71,5 +76,5 @@ Press the **top button** on the **right side** of the device.
 One press will toggle the heating function on or off.
 
 :::danger[Warning! Fire Hazard!]
-**Before** enabling the heating element ***please*** make sure there are no **fire hazards** present or nearby the element!
+**Before** enabling the heating element **_please_** make sure there are no **fire hazards** present or nearby the element!
 :::
