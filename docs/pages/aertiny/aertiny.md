@@ -14,7 +14,7 @@ Let's discover how to use the **AerTiny** Temperature Controller.
 Get started by **Aquiring a Device**.
 
 <div>
-![](/img/aertiny_035asdfjk.jpg)
+![](/img/aertiny_2025_02.jpg)
 <sup>Image: *Finalized AerTiny Device with case printed using Black ASA.*</sup>
 </div>
 
